@@ -13,7 +13,7 @@ including:
 
 # Dataset Information 
 * Number of rows: 18,207 players
-* Columns include:88
+* 88 columns including:
 * ID - Unique player ID
 * Name- Player’s name
 * Age- Age of the player
@@ -40,9 +40,9 @@ including:
 * Skill Metrics vs Performance: Key skills like Dribbling, Finishing, and Passing strongly influence Overall and Potential ratings.
 
 # Tools and Libraries I used :-
-* Python: Core programming language
+* Python: for programming language
 * Pandas: Data manipulation and analysis
 * NumPy: For Numerical computations
 * SciPy: Statistical functions and tests
-* Matplotlib/Seaborn: Data visualization
+* Matplotlib/Seaborn: for Data visualization purpose 
 * Excel: For reading the input dataset
